@@ -1,2 +1,3 @@
 var today = monday;
-var tomorrow = tuseday;
+
+var name = 'Bruce Wayne';
